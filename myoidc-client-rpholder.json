@@ -1,0 +1,1 @@
+{"clientId":"unity-client","clientSecret":"unity","discoveryEndpoint":"http://localhost:8080/myoidc-server/.well-known/openid-configuration"}
